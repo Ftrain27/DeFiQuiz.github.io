@@ -1,1 +1,1 @@
-# DeFiQuiz.github.io
+# DeFiQuiz
